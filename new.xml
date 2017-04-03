@@ -13,20 +13,20 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
 
-  <title>Hardcore History</title>
-  <link>http://www.put.io</link>
+  <title>Hardcore History Archive</title>
+  <link>dancarlin.com</link>
   <atom:link href="https://api.put.io/rss/all/461435584" rel="self" type="application/rss+xml" />
   <language>en-us</language>
   <copyright>put.io</copyright>
   <itunes:subtitle>Hardcore History</itunes:subtitle>
-  <itunes:author>Putio</itunes:author>
+  <itunes:author>Dan Carlin</itunes:author>
   <itunes:summary>Hardcore History</itunes:summary>
   <description>Hardcore History</description>
   <itunes:owner>
     <itunes:name>Putio</itunes:name>
     <itunes:email>info@put.io</itunes:email>
   </itunes:owner>
-  <itunes:image href="http://put.io/images/putio-itunes-image.png" />
+  <itunes:image href="http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg" />
   <itunes:category text="Technology">
     <itunes:category text="Gadgets" />
   </itunes:category>
