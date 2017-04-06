@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+
+  <title>Meditation App</title>
+  <link>http://www.put.io</link>
+  <atom:link href="https://put.io/rss/all/462417798" rel="self" type="application/rss+xml" />
+  <language>en-us</language>
+  <copyright>put.io</copyright>
+  <itunes:subtitle>Meditation</itunes:subtitle>
+  <itunes:author>Putio</itunes:author>
+  <itunes:summary>Meditation</itunes:summary>
+  <description>Meditation</description>
+  <itunes:owner>
+    <itunes:name>Putio</itunes:name>
+    <itunes:email>info@put.io</itunes:email>
+  </itunes:owner>
+  <itunes:image href="http://put.io/images/putio-itunes-image.png" />
+  <itunes:category text="Technology">
+    <itunes:category text="Gadgets" />
+  </itunes:category>
+  <generator>Putio RSS Generator</generator>
+  <itunes:explicit>no</itunes:explicit>
+  <managingEditor>info@put.io (Put.io)</managingEditor>
+  <itunes:keywords>put.io,putio,putdotio,podcast,putcast</itunes:keywords>
+  <image>
+    <title>Meditation</title>
+    <url>http://put.io/images/apple-touch-icon.png</url>
+    <link>http://www.put.io</link>
+  </image>
+
+  
+  <item>
+      <title>Video 5 - New navigation and the meditation screen design.mp4</title>
+      <link>https://put.io/v2/files/462417786/download/Video%205%20-%20New%20navigation%20and%20the%20meditation%20screen%20design.mp4?oauth_token=GNCQVN3C</link>
+      <guid>file:462417786</guid>
+      <enclosure url="https://put.io/v2/files/462417786/download/Video%205%20-%20New%20navigation%20and%20the%20meditation%20screen%20design.mp4?oauth_token=GNCQVN3C" length="71920707" type="video/mp4" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://put.io/screenshots/kYaWZmRmjouWWopoW2SPY2OOX2KLWWmGZmZoYJNYZVhak4ZoXmGTXw%3D%3D.jpg" />
+      <pubDate>Thu, 06 Apr 2017 17:56:45 -0000</pubDate>
+  </item>
+  
+  <item>
+      <title>Video 7 - Weekly update _ beta, final illustrations, video timeline.mp4</title>
+      <link>https://put.io/v2/files/462417787/download/Video%207%20-%20Weekly%20update%20_%20beta%2C%20final%20illustrations%2C%20video%20timeline.mp4?oauth_token=GNCQVN3C</link>
+      <guid>file:462417787</guid>
+      <enclosure url="https://put.io/v2/files/462417787/download/Video%207%20-%20Weekly%20update%20_%20beta%2C%20final%20illustrations%2C%20video%20timeline.mp4?oauth_token=GNCQVN3C" length="80199378" type="video/mp4" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://put.io/screenshots/ZIdqkZZlYlyTW1hmipVklmFhi5WIXGWIbV%2BVaV5bY4teZ4tskWlmjg%3D%3D.jpg" />
+      <pubDate>Thu, 06 Apr 2017 17:56:45 -0000</pubDate>
+  </item>
+  
+  <item>
+      <title>Video 3 - Q&amp;A _ answers to your questions.mp4</title>
+      <link>https://put.io/v2/files/462417788/download/Video%203%20-%20Q%26A%20_%20answers%20to%20your%20questions.mp4?oauth_token=GNCQVN3C</link>
+      <guid>file:462417788</guid>
+      <enclosure url="https://put.io/v2/files/462417788/download/Video%203%20-%20Q%26A%20_%20answers%20to%20your%20questions.mp4?oauth_token=GNCQVN3C" length="117453079" type="video/mp4" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://put.io/screenshots/YFtrZpRpkl9jhotli2diZWaOX5GKVpJdl19laF%2BIZ4hbYIdtX2mVkQ%3D%3D.jpg" />
+      <pubDate>Thu, 06 Apr 2017 17:56:45 -0000</pubDate>
+  </item>
+  
+  <item>
+      <title>Video 6 - Weekly update _ live chat.mp4</title>
+      <link>https://put.io/v2/files/462417789/download/Video%206%20-%20Weekly%20update%20_%20live%20chat.mp4?oauth_token=GNCQVN3C</link>
+      <guid>file:462417789</guid>
+      <enclosure url="https://put.io/v2/files/462417789/download/Video%206%20-%20Weekly%20update%20_%20live%20chat.mp4?oauth_token=GNCQVN3C" length="86859127" type="video/mp4" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://put.io/screenshots/aVqXYmVkZlpnhodjiWljlpFhjGNXXJJbamJiZWSLZYpaYVdrkGdiXg%3D%3D.jpg" />
+      <pubDate>Thu, 06 Apr 2017 17:56:45 -0000</pubDate>
+  </item>
+  
+  <item>
+      <title>Video 2 - Wireframes + Research + Naming.mp4</title>
+      <link>https://put.io/v2/files/462417790/download/Video%202%20-%20Wireframes%20%2B%20Research%20%2B%20Naming.mp4?oauth_token=GNCQVN3C</link>
+      <guid>file:462417790</guid>
+      <enclosure url="https://put.io/v2/files/462417790/download/Video%202%20-%20Wireframes%20%2B%20Research%20%2B%20Naming.mp4?oauth_token=GNCQVN3C" length="258801446" type="video/mp4" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://put.io/screenshots/ZIlmY2doYFpjWYhjimqQkWFeVpNcimlWZGWSY5BdZV2JYIhqk5Jhjw%3D%3D.jpg" />
+      <pubDate>Thu, 06 Apr 2017 17:56:45 -0000</pubDate>
+  </item>
+  
+  <item>
+      <title>Video 4 - Script for the Meditation 101 video, feedback and edit suggestions needed.mp4</title>
+      <link>https://put.io/v2/files/462417735/download/Video%204%20-%20Script%20for%20the%20Meditation%20101%20video%2C%20feedback%20and%20edit%20suggestions%20needed.mp4?oauth_token=GNCQVN3C</link>
+      <guid>file:462417735</guid>
+      <enclosure url="https://put.io/v2/files/462417735/download/Video%204%20-%20Script%20for%20the%20Meditation%20101%20video%2C%20feedback%20and%20edit%20suggestions%20needed.mp4?oauth_token=GNCQVN3C" length="20990318" type="video/mp4" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://put.io/screenshots/kYqWZmBmkF1jVYtih5dmZmWOV2CKW2CLZ15hZGJbY1iHZFuZkGeWZg%3D%3D.jpg" />
+      <pubDate>Thu, 06 Apr 2017 17:56:18 -0000</pubDate>
+  </item>
+  
+  <item>
+      <title>Video 1 - Welcome to the group.mp4</title>
+      <link>https://put.io/v2/files/462417134/download/Video%201%20-%20Welcome%20to%20the%20group.mp4?oauth_token=GNCQVN3C</link>
+      <guid>file:462417134</guid>
+      <enclosure url="https://put.io/v2/files/462417134/download/Video%201%20-%20Welcome%20to%20the%20group.mp4?oauth_token=GNCQVN3C" length="82269682" type="video/mp4" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://put.io/screenshots/koZnZJNkZIhgXlqRV2pjZJWSXJNZh2lal2OTY5BXkoZYkohqkmaRXQ%3D%3D.jpg" />
+      <pubDate>Thu, 06 Apr 2017 17:51:10 -0000</pubDate>
+  </item>
+  
+</channel>
+</rss>
