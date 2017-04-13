@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+
+  <title>Dan Carlin's Hardcore History</title>
+  <link>http://www.put.io</link>
+  <atom:link href="https://put.io/rss/all/463622585" rel="self" type="application/rss+xml" />
+  <language>en-us</language>
+  <copyright>put.io</copyright>
+  <itunes:subtitle>Dan Carlin's Hardcore History</itunes:subtitle>
+  <itunes:author>Putio</itunes:author>
+  <itunes:summary>Dan Carlin's Hardcore History</itunes:summary>
+  <description>Dan Carlin's Hardcore History</description>
+  <itunes:owner>
+    <itunes:name>Putio</itunes:name>
+    <itunes:email>info@put.io</itunes:email>
+  </itunes:owner>
+  <itunes:image href="http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg" />
+  <itunes:category text="Technology">
+    <itunes:category text="Gadgets" />
+  </itunes:category>
+  <generator>Putio RSS Generator</generator>
+  <itunes:explicit>no</itunes:explicit>
+  <managingEditor>info@put.io (Put.io)</managingEditor>
+  <itunes:keywords>put.io,putio,putdotio,podcast,putcast</itunes:keywords>
+  <image>
+    <title>Dan Carlin's Hardcore History</title>
+    <url>http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg</url>
+    <link>http://www.put.io</link>
+  </image>
+
+  <item>
+    <title>Show 59 - (Blitz) The Destroyer of Worlds</title>
+    <guid>https://put.io/v2/files/463622718/download/dchha59_BLITZ_The_Destroyer_of_Worlds.mp3?oauth_token=GNCQVN3C</guid>
+    <description>What happens if human beings can't handle the power of their own weaponry? This show  examines the dangerous early years of the Nuclear Age and humankind's efforts to avoid self-destruction at the hands of its own creation.</description>
+    <itunes:subtitle>What happens if human beings can't handle the power of their own weaponry? This show  examines the dangerous early years of the Nuclear Age and humankind's efforts to avoid self-destruction at the hands of its own creation.</itunes:subtitle>
+    <itunes:summary>What happens if human beings can't handle the power of their own weaponry? This show  examines the dangerous early years of the Nuclear Age and humankind's efforts to avoid self-destruction at the hands of its own creation.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-59-the-destroyer-of-worlds</link>
+    <pubDate>Tue, 24 Jan 2017 21:05:35 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622718/download/dchha59_BLITZ_The_Destroyer_of_Worlds.mp3?oauth_token=GNCQVN3C" length="336543625" type="audio/mpeg" />
+    <itunes:duration>05:49:32</itunes:duration>
+    <itunes:keywords>Atomic, nuclear, hydrogen, thermonuclear, war, Oppenheimer, Truman, Eisenhower, Kennedy, Cold War, World War, Curtis LeMay, Cuban Missile Crisis, Korean War, Hiroshima, Nagasaki
+    </itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 58 - Kings of Kings III</title>
+    <guid>https://put.io/v2/files/463622739/download/dchha58_Kings_of_Kings_III.mp3?oauth_token=GNCQVN3C</guid>
+    <description>If this were a movie, the events and cameos would be too numerous and star-studded to mention. It includes Xerxes, Spartans, Immortals, Alexander the Great, scythed chariots, and several of the greatest battles in history.</description>
+    <itunes:subtitle>If this were a movie, the events and cameos would be too numerous and star-studded to mention. It includes Xerxes, Spartans, Immortals, Alexander the Great, scythed chariots, and several of the greatest battles in history.</itunes:subtitle>
+    <itunes:summary>If this were a movie, the events and cameos would be too numerous and star-studded to mention. It includes Xerxes, Spartans, Immortals, Alexander the Great, scythed chariots, and several of the greatest battles in history.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-58-kings-kings-iii</link>
+    <pubDate>Sun, 07 Aug 2016 12:05:26 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622739/download/dchha58_Kings_of_Kings_III.mp3?oauth_token=GNCQVN3C" length="288811644" type="audio/mpeg" />
+    <itunes:duration>05:00:30</itunes:duration>
+    <itunes:keywords>Persia, Achaemenid, Xerxes, Darius, Artaxerxes, Greek, Macedonian, ancient history, military, Philip, Alexander, Spartan, Athens, Herodotus, Leonidas, podcast, Plataea, Issus, Salamis, Gaugamela
+    </itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 57 - Kings of Kings II</title>
+    <guid>https://put.io/v2/files/463622724/download/dchha57_Kings_of_Kings_II.mp3?oauth_token=GNCQVN3C</guid>
+    <description>From Biblical-era coup conspiracies to the horrific aftermath of ancient combat this second installment of the series on the Kings of Achaemenid Persia goes where only Dan can take it. For better or worse…</description>
+    <itunes:subtitle>From Biblical-era coup conspiracies to the horrific aftermath of ancient combat this second installment of the series on the Kings of Achaemenid Persia goes where only Dan can take it. For better or worse…</itunes:subtitle>
+    <itunes:summary>From Biblical-era coup conspiracies to the horrific aftermath of ancient combat this second installment of the series on the Kings of Achaemenid Persia goes where only Dan can take it. For better or worse…</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-57-kings-kings-ii</link>
+    <pubDate>Sun, 20 Mar 2016 00:08:08 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622724/download/dchha57_Kings_of_Kings_II.mp3?oauth_token=GNCQVN3C" length="245664339" type="audio/mpeg" />
+    <itunes:duration>04:15:42</itunes:duration>
+    <itunes:keywords>Persia, Achaemenid, Darius, Cambyses, Bardiya, Smerdis, Greece, Athens, Sparta, Scythian, Herodotus, Ancient Combat, war, history, soldiers, battle, Greek and Persian Wars, podcast
+    </itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 56 - Kings of Kings</title>
+    <guid>https://put.io/v2/files/463622735/download/dchha56_Kings_of_Kings.mp3?oauth_token=GNCQVN3C</guid>
+    <description>Often relegated to the role of slavish cannon fodder for Sparta's spears, the Achaemenid Persian empire had a glorious heritage. Under a single king they created the greatest empire the world had ever seen.</description>
+    <itunes:subtitle>Often relegated to the role of slavish cannon fodder for Sparta's spears, the Achaemenid Persian empire had a glorious heritage. Under a single king they created the greatest empire the world had ever seen.</itunes:subtitle>
+    <itunes:summary>Often relegated to the role of slavish cannon fodder for Sparta's spears, the Achaemenid Persian empire had a glorious heritage. Under a single king they created the greatest empire the world had ever seen.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-56-kings-of-kings/</link>
+    <pubDate>Wed, 28 Oct 2015 17:35:08 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622735/download/dchha56_Kings_of_Kings.mp3?oauth_token=GNCQVN3C" length="204625133" type="audio/mpeg" />
+    <itunes:duration>03:32:40</itunes:duration>
+    <itunes:keywords>Cyrus, Iran, Persia, Greek, Greece, Xerxes, Assyria, Babylon, Bible, Biblical, ancient, history, Spartans, Athens, Greek and Persian Wars, Medes, Scythians, Herodotus, Elamites
+    </itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 55 - Blueprint for Armageddon VI</title>
+    <guid>https://put.io/v2/files/463622743/download/dchha55_Blueprint_for_Armageddon_VI.mp3?oauth_token=GNCQVN3C</guid>
+    <description> The Americans are coming, but will the war be over by the time they get there? Germany throws everything into a last series of stupendous attacks in the West while hoping to avoid getting burned by a fire in the East they helped fan.</description>
+    <itunes:subtitle> The Americans are coming, but will the war be over by the time they get there? Germany throws everything into a last series of stupendous attacks in the West while hoping to avoid getting burned by a fire in the East they helped fan.</itunes:subtitle>
+    <itunes:summary> The Americans are coming, but will the war be over by the time they get there? Germany throws everything into a last series of stupendous attacks in the West while hoping to avoid getting burned by a fire in the East they helped fan.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-55-blueprint-for-armageddon-vi/</link>
+    <pubDate>Tue, 05 May 2015 23:57:12 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622743/download/dchha55_Blueprint_for_Armageddon_VI.mp3?oauth_token=GNCQVN3C" length="246726853" type="audio/mpeg" />
+    <itunes:duration>04:16:43</itunes:duration>
+    <itunes:keywords>communism, Lenin, Germany, Kaiser, Ludendorff, Kaiserschlacht, Hundred Days, Spring Offensive, 1918, World War One, First World War, history, Oil, Balfour, Arab, Sykes-Picot,Foch, Pershing, Wilson, Ottoman</itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 54 - Blueprint for Armageddon V</title>
+    <guid>https://put.io/v2/files/463622740/download/dchha54_Blueprint_for_Armageddon_V.mp3?oauth_token=GNCQVN3C</guid>
+    <description>Politics, diplomacy, revolution and mutiny take center stage at the start of this episode, but mud, blood, shells and tragedy drown all by the end.</description>
+    <itunes:subtitle>Politics, diplomacy, revolution and mutiny take center stage at the start of this episode, but mud, blood, shells and tragedy drown all by the end.</itunes:subtitle>
+    <itunes:summary>Politics, diplomacy, revolution and mutiny take center stage at the start of this episode, but mud, blood, shells and tragedy drown all by the end.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-54-blueprint-for-armageddon-v/</link>
+    <pubDate>Mon, 29 Dec 2014 22:24:12 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622740/download/dchha54_Blueprint_for_Armageddon_V.mp3?oauth_token=GNCQVN3C" length="259429328" type="audio/mpeg" />
+    <itunes:duration>04:29:57</itunes:duration>
+    <itunes:keywords>first world war, Great War, Woodrow Wilson, America, United States, Russia, Pancho Villa, Nicholas II, Ludendorff, Hindenburg, Germany, Passchendaele, Ypres, Haig, Lloyd George, Winston Churchill, Neville, Mutinies of 1917, Russian Revolution, submarines</itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 53 - Blueprint for Armageddon IV</title>
+    <guid>https://put.io/v2/files/463622741/download/dchha53_Blueprint_for_Armageddon_IV_clean.mp3?oauth_token=GNCQVN3C.mp3</guid>
+    <description>Machine guns, barbed wire and millions upon millions of artillery shells create industrialized meat grinders at Verdun and the Somme. There's never been a human experience like it and it changes a generation.</description>
+    <itunes:subtitle>Machine guns, barbed wire and millions upon millions of artillery shells create industrialized meat grinders at Verdun and the Somme. There's never been a human experience like it and it changes a generation.</itunes:subtitle>
+    <itunes:summary>Machine guns, barbed wire and millions upon millions of artillery shells create industrialized meat grinders at Verdun and the Somme. There's never been a human experience like it and it changes a generation.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-53-blueprint-for-armageddon-iv</link>
+    <pubDate>Sun, 17 Aug 2014 09:21:10 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622741/download/dchha53_Blueprint_for_Armageddon_IV_clean.mp3?oauth_token=GNCQVN3C" length="226905886" type="audio/mpeg" />
+    <itunes:duration>03:55:51</itunes:duration>
+    <itunes:keywords>World War One, Great War, history, Europe, history, podcast, war, military, 1916, Britain, France, Russia, Austria-Hungary, tank, artillary, battles, army, Germany, trenches, poison gas, Churchill, Verdun, Somme, Jutland, Naval</itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 52 - Blueprint for Armageddon III</title>
+    <guid>https://put.io/v2/files/463622737/download/dchha52_Blueprint_for_Armageddon_III_clean.mp3?oauth_token=GNCQVN3C</guid>
+    <description>The war of maneuver that was supposed to be over quickly instead turns into a lingering bloody stalemate. Trench warfare begins, and with it, all the murderous efforts on both sides to overcome the static defenses.</description>
+    <itunes:subtitle>The war of maneuver that was supposed to be over quickly instead turns into a lingering bloody stalemate. Trench warfare begins, and with it, all the murderous efforts on both sides to overcome the static defenses.</itunes:subtitle>
+    <itunes:summary>The war of maneuver that was supposed to be over quickly instead turns into a lingering bloody stalemate. Trench warfare begins, and with it, all the murderous efforts on both sides to overcome the static defenses.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-52-blueprint-for-armageddon-iii</link>
+    <pubDate>Thu, 24 Apr 2014 12:25:18 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622737/download/dchha52_Blueprint_for_Armageddon_III_clean.mp3?oauth_token=GNCQVN3C" length="225609410" type="audio/mpeg" />
+    <itunes:duration>03:54:08</itunes:duration>
+    <itunes:keywords>World War One, Great War, history, Italy, Europe, history, podcast, war, military, 1915, Britain, France, Russia, Austria-Hungary, Serbia, Turkey, battles, army, Armenians, Germany, trenches, poison gas, Churchill, Ypres, Gallipoli, Artillery </itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 51 - Blueprint for Armageddon II</title>
+    <guid>https://put.io/v2/files/463622738/download/dchha51_Blueprint_for_Armageddon_II.mp3?oauth_token=GNCQVN3C</guid>
+    <description>The Great Powers all come out swinging in the first round of the worst war the planet has ever seen. Millions of men in dozens of armies vie in the most deadly and complex opening moves of any conflict in world history.</description>
+    <itunes:subtitle>The Great Powers all come out swinging in the first round of the worst war the planet has ever seen. Millions of men in dozens of armies vie in the most deadly and complex opening moves of any conflict in world history.</itunes:subtitle>
+    <itunes:summary>The Great Powers all come out swinging in the first round of the worst war the planet has ever seen. Millions of men in dozens of armies vie in the most deadly and complex opening moves of any conflict in world history.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-51-blueprint-for-armageddon-ii</link>
+    <pubDate>Thu, 30 Jan 2014 21:12:15 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622738/download/dchha51_Blueprint_for_Armageddon_II.mp3?oauth_token=GNCQVN3C" length="193299910" type="audio/mpeg" />
+    <itunes:duration>03:20:29</itunes:duration>
+    <itunes:keywords>First World War, World War One, Great War, Kaiser, Czar, Europe, history, podcast, war, military, 1914, Britain, France, Russia, Austria-Hungary, Serbia, Napoleon, battles, army, Belgium, Ludendorff, Moltke, Joffre, Mons, Marne, Tannenberg, Artillery</itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 50 - Blueprint for Armageddon I</title>
+    <guid>https://put.io/v2/files/463622734/download/dchha50_Blueprint_for_Armageddon_I.mp3?oauth_token=GNCQVN3C</guid>
+    <description>The planet hadn't seen a major war between all the Great Powers since the downfall of Napoleon at Waterloo in 1815. But 99 years later the dam breaks and a Pandora's Box of violence engulfs the planet.</description>
+    <itunes:subtitle>The planet hadn't seen a major war between all the Great Powers since the downfall of Napoleon at Waterloo in 1815. But 99 years later the dam breaks and a Pandora's Box of violence engulfs the planet.</itunes:subtitle>
+    <itunes:summary>The planet hadn't seen a major war between all the Great Powers since the downfall of Napoleon at Waterloo in 1815. But 99 years later the dam breaks and a Pandora's Box of violence engulfs the planet.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i</link>
+    <pubDate>Tue, 29 Oct 2013 23:12:15 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622734/download/dchha50_Blueprint_for_Armageddon_I.mp3?oauth_token=GNCQVN3C" length="180682140" type="audio/mpeg" />
+    <itunes:duration>03:07:20</itunes:duration>
+    <itunes:keywords>First World War, World War One, Great War, Kaiser, Czar, Europe, history, podcast, audio, war, military, 1914, Britain, France, Russia, Austria-Hungary, Serbia, Princip, assassination, Bismarck, Napoleon, battles, army, Belgium, Ludendorff</itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 49 - The American Peril</title>
+    <guid>https://put.io/v2/files/463622742/download/dchha49_The_American_Peril.mp3?oauth_token=GNCQVN3C</guid>
+    <description>Imperial temptations and humanitarian nightmares force the United States of the late 19th Century to confront the contradictions between its revolutionary self-image and its expanding national interests.</description>
+    <itunes:subtitle>Imperial temptations and humanitarian nightmares force the United States of the late 19th Century to confront the contradictions between its revolutionary self-image and its expanding national interests.</itunes:subtitle>
+    <itunes:summary>Imperial temptations and humanitarian nightmares force the United States of the late 19th Century to confront the contradictions between its revolutionary self-image and its expanding national interests.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-49-the-american-peril</link>
+    <pubDate>Thu, 25 Jul 2013 14:05:51 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622742/download/dchha49_The_American_Peril.mp3?oauth_token=GNCQVN3C" length="236687418" type="audio/mpeg" />
+    <itunes:duration>04:05:41</itunes:duration>
+    <itunes:keywords> Spanish-American, Philippine, Insurrection, William McKinley, Theodore Roosevelt, Cuba, Imperialism, expansion, revolution, history, podcast, United States, America, colonialism, Jingoism, Nationalism, patriotism, isolationism, Moro Wars</itunes:keywords>
+  </item>
+
+  <item>
+    <title>Show 48 - Prophets of Doom</title>
+    <guid>https://put.io/v2/files/463622819/download/dchha48_Prophets_of_Doom.mp3?oauth_token=GNCQVN3C</guid>
+    <description>Murderous millennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora's Box of religious anarchy with the Protestant Reformation.</description>
+    <itunes:subtitle>Murderous millennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora's Box of religious anarchy with the Protestant Reformation.</itunes:subtitle>
+    <itunes:summary>Murderous millennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora's Box of religious anarchy with the Protestant Reformation.</itunes:summary>
+    <link>http://www.dancarlin.com/product/hardcore-history-48-prophets-of-doom</link>
+    <pubDate>Mon, 22 Apr 2013 02:27:04 PST</pubDate>
+    <enclosure url="https://put.io/v2/files/463622819/download/dchha48_Prophets_of_Doom.mp3?oauth_token=GNCQVN3C" length="258129561" type="audio/mpeg" />
+    <itunes:duration>04:28:01</itunes:duration>
+    <itunes:keywords>Luther, Reformation, history, podcast, Munster, Anabaptist, religious, fanaticism, terrorism, Christian, Catholic, church, Protestant, German, Pope, Renaissance, Leiden, Lutheran, Rome, David Koresh, cults</itunes:keywords>
+  </item>
+
+  <item>
+      <title>Show 47 - Wrath of the Khans V</title>
+      <link>https://api.put.io/v2/files/461099177/download/Show%2047%20-%20Wrath%20of%20the%20Khans%20V?oauth_token=GNCQVN3C</link>
+      <guid>file:461099177</guid>
+      <enclosure url="https://api.put.io/v2/files/461099177/download/Show%2047%20-%20Wrath%20of%20the%20Khans%20V?oauth_token=GNCQVN3C" length="124566269" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sun, 13 Jan 2013 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 46 - Wrath of the Khans IV</title>
+      <link>https://api.put.io/v2/files/461099176/download/Show%C2%A046%20-%20Wrath%20of%20the%20Khans%20IV?oauth_token=GNCQVN3C</link>
+      <guid>file:461099176</guid>
+      <enclosure url="https://api.put.io/v2/files/461099176/download/Show%C2%A046%20-%20Wrath%20of%20the%20Khans%20IV?oauth_token=GNCQVN3C" length="90746266" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 13 Nov 2012 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 45 - Wrath of the Khans III</title>
+      <link>https://api.put.io/v2/files/461099175/download/Show%C2%A045%20-%20Wrath%20of%20the%20Khans%20III?oauth_token=GNCQVN3C</link>
+      <guid>file:461099175</guid>
+      <enclosure url="https://api.put.io/v2/files/461099175/download/Show%C2%A045%20-%20Wrath%20of%20the%20Khans%20III?oauth_token=GNCQVN3C" length="87129954" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sun, 23 Sep 2012 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 44 - Wrath of the Khans II</title>
+      <link>https://api.put.io/v2/files/461099174/download/Show%C2%A044%20-%20Wrath%20of%20the%20Khans%20II?oauth_token=GNCQVN3C</link>
+      <guid>file:461099174</guid>
+      <enclosure url="https://api.put.io/v2/files/461099174/download/Show%C2%A044%20-%20Wrath%20of%20the%20Khans%20II?oauth_token=GNCQVN3C" length="94577567" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 31 Jul 2012 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 43 - Wrath of the Khans I</title>
+      <link>https://api.put.io/v2/files/461099173/download/Show%C2%A043%20-%20Wrath%20of%20the%20Khans%20I?oauth_token=GNCQVN3C</link>
+      <guid>file:461099173</guid>
+      <enclosure url="https://api.put.io/v2/files/461099173/download/Show%C2%A043%20-%20Wrath%20of%20the%20Khans%20I?oauth_token=GNCQVN3C" length="105320868" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 13 Jun 2012 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 42 - (BLITZ) Logical Insanity</title>
+      <link>https://api.put.io/v2/files/461099172/download/Show%C2%A042%20-%20%28BLITZ%29%20Logical%20Insanity?oauth_token=GNCQVN3C</link>
+      <guid>file:461099172</guid>
+      <enclosure url="https://api.put.io/v2/files/461099172/download/Show%C2%A042%20-%20%28BLITZ%29%20Logical%20Insanity?oauth_token=GNCQVN3C" length="108839592" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sat, 31 Mar 2012 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 41 - Thor's Angels</title>
+      <link>https://api.put.io/v2/files/461099171/download/Show%2041%20-%20Thor%27s%20Angels?oauth_token=GNCQVN3C</link>
+      <guid>file:461099171</guid>
+      <enclosure url="https://api.put.io/v2/files/461099171/download/Show%2041%20-%20Thor%27s%20Angels?oauth_token=GNCQVN3C" length="236591807" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Thu, 19 Jan 2012 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 40 - (BLITZ) Radical Thoughts</title>
+      <link>https://api.put.io/v2/files/461099170/download/Show%C2%A040%20-%20%28BLITZ%29%20Radical%20Thoughts?oauth_token=GNCQVN3C</link>
+      <guid>file:461099170</guid>
+      <enclosure url="https://api.put.io/v2/files/461099170/download/Show%C2%A040%20-%20%28BLITZ%29%20Radical%20Thoughts?oauth_token=GNCQVN3C" length="115373402" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 12 Oct 2011 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 39 - Death Throes of the Republic VI</title>
+      <link>https://api.put.io/v2/files/461099169/download/Show%C2%A039%20-%20Death%20Throes%20of%20the%20Republic%20VI?oauth_token=GNCQVN3C</link>
+      <guid>file:461099169</guid>
+      <enclosure url="https://api.put.io/v2/files/461099169/download/Show%C2%A039%20-%20Death%20Throes%20of%20the%20Republic%20VI?oauth_token=GNCQVN3C" length="314240078" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 29 Jun 2011 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 38 - Death Throes of the Republic V</title>
+      <link>https://api.put.io/v2/files/461099168/download/Show%C2%A038%20-%20Death%20Throes%20of%20the%20Republic%20V?oauth_token=GNCQVN3C</link>
+      <guid>file:461099168</guid>
+      <enclosure url="https://api.put.io/v2/files/461099168/download/Show%C2%A038%20-%20Death%20Throes%20of%20the%20Republic%20V?oauth_token=GNCQVN3C" length="104833839" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Thu, 31 Mar 2011 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 37 - Death Throes of the Republic IV</title>
+      <link>https://api.put.io/v2/files/461099167/download/Show%C2%A037%20-%20Death%20Throes%20of%20the%20Republic%20IV?oauth_token=GNCQVN3C</link>
+      <guid>file:461099167</guid>
+      <enclosure url="https://api.put.io/v2/files/461099167/download/Show%C2%A037%20-%20Death%20Throes%20of%20the%20Republic%20IV?oauth_token=GNCQVN3C" length="104831229" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Thu, 27 Jan 2011 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 36 - Death Throes of the Republic III</title>
+      <link>https://api.put.io/v2/files/461099166/download/Show%C2%A036%20-%20Death%20Throes%20of%20the%20Republic%20III?oauth_token=GNCQVN3C</link>
+      <guid>file:461099166</guid>
+      <enclosure url="https://api.put.io/v2/files/461099166/download/Show%C2%A036%20-%20Death%20Throes%20of%20the%20Republic%20III?oauth_token=GNCQVN3C" length="98140562" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sat, 29 Oct 2010 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 35 - Death Throes of the Republic II</title>
+      <link>https://api.put.io/v2/files/461099165/download/Show%C2%A035%20-%20Death%20Throes%20of%20the%20Republic%20II?oauth_token=GNCQVN3C</link>
+      <guid>file:461099165</guid>
+      <enclosure url="https://api.put.io/v2/files/461099165/download/Show%C2%A035%20-%20Death%20Throes%20of%20the%20Republic%20II?oauth_token=GNCQVN3C" length="91486320" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sun, 29 Aug 2010 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 34 - Death Throes of the Republic I</title>
+      <link>https://api.put.io/v2/files/461099164/download/Show%C2%A034%20-%20Death%20Throes%20of%20the%20Republic%20I?oauth_token=GNCQVN3C</link>
+      <guid>file:461099164</guid>
+      <enclosure url="https://api.put.io/v2/files/461099164/download/Show%C2%A034%20-%20Death%20Throes%20of%20the%20Republic%20I?oauth_token=GNCQVN3C" length="80640278" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sun, 27 Jun 2010 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 33 - (BLITZ) Old School Toughness</title>
+      <link>https://api.put.io/v2/files/461099163/download/Show%C2%A033%20-%20%28BLITZ%29%20Old%20School%20Toughness?oauth_token=GNCQVN3C</link>
+      <guid>file:461099163</guid>
+      <enclosure url="https://api.put.io/v2/files/461099163/download/Show%C2%A033%20-%20%28BLITZ%29%20Old%20School%20Toughness?oauth_token=GNCQVN3C" length="45367609" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 28 Apr 2010 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 32 - Globalization Unto Death</title>
+      <link>https://api.put.io/v2/files/461099162/download/Show%2032%20-%20Globalization%20Unto%20Death?oauth_token=GNCQVN3C</link>
+      <guid>file:461099162</guid>
+      <enclosure url="https://api.put.io/v2/files/461099162/download/Show%2032%20-%20Globalization%20Unto%20Death?oauth_token=GNCQVN3C" length="66391805" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sat, 27 Feb 2010 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 31 - (BLITZ) Suffer the Children</title>
+      <link>https://api.put.io/v2/files/461099161/download/Show%C2%A031%20-%20%28BLITZ%29%20Suffer%20the%20Children?oauth_token=GNCQVN3C</link>
+      <guid>file:461099161</guid>
+      <enclosure url="https://api.put.io/v2/files/461099161/download/Show%C2%A031%20-%20%28BLITZ%29%20Suffer%20the%20Children?oauth_token=GNCQVN3C" length="42440153" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 09 Dec 2009 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 30 - Ghosts of the Ostfront IV</title>
+      <link>https://api.put.io/v2/files/461099160/download/Show%C2%A030%20-%20Ghosts%20of%20the%20Ostfront%20IV?oauth_token=GNCQVN3C</link>
+      <guid>file:461099160</guid>
+      <enclosure url="https://api.put.io/v2/files/461099160/download/Show%C2%A030%20-%20Ghosts%20of%20the%20Ostfront%20IV?oauth_token=GNCQVN3C" length="71741160" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sat, 10 Oct 2009 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 29 - Ghosts of the Ostfront III</title>
+      <link>https://api.put.io/v2/files/461099159/download/Show%C2%A029%20-%20Ghosts%20of%20the%20Ostfront%20III?oauth_token=GNCQVN3C</link>
+      <guid>file:461099159</guid>
+      <enclosure url="https://api.put.io/v2/files/461099159/download/Show%C2%A029%20-%20Ghosts%20of%20the%20Ostfront%20III?oauth_token=GNCQVN3C" length="65084325" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Mon, 10 Aug 2009 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 28 - Ghosts of the Ostfront II</title>
+      <link>https://api.put.io/v2/files/461099158/download/Show%C2%A028%20-%20Ghosts%20of%20the%20Ostfront%20II?oauth_token=GNCQVN3C</link>
+      <guid>file:461099158</guid>
+      <enclosure url="https://api.put.io/v2/files/461099158/download/Show%C2%A028%20-%20Ghosts%20of%20the%20Ostfront%20II?oauth_token=GNCQVN3C" length="65210653" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 17 Jun 2009 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 27 - Ghosts of the Ostfront I</title>
+      <link>https://api.put.io/v2/files/461099157/download/Show%C2%A027%20-%20Ghosts%20of%20the%20Ostfront%20I?oauth_token=GNCQVN3C</link>
+      <guid>file:461099157</guid>
+      <enclosure url="https://api.put.io/v2/files/461099157/download/Show%C2%A027%20-%20Ghosts%20of%20the%20Ostfront%20I?oauth_token=GNCQVN3C" length="48196475" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sun, 19 Apr 2009 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 26 - (BLITZ) Addicted to Bondage</title>
+      <link>https://api.put.io/v2/files/461099156/download/Show%C2%A026%20-%20%28BLITZ%29%20Addicted%20to%20Bondage?oauth_token=GNCQVN3C</link>
+      <guid>file:461099156</guid>
+      <enclosure url="https://api.put.io/v2/files/461099156/download/Show%C2%A026%20-%20%28BLITZ%29%20Addicted%20to%20Bondage?oauth_token=GNCQVN3C" length="46513458" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 03 Feb 2009 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 25 - The Dyer Outlook</title>
+      <link>https://api.put.io/v2/files/461099155/download/Show%C2%A025%20-%20The%20Dyer%20Outlook?oauth_token=GNCQVN3C</link>
+      <guid>file:461099155</guid>
+      <enclosure url="https://api.put.io/v2/files/461099155/download/Show%C2%A025%20-%20The%20Dyer%20Outlook?oauth_token=GNCQVN3C" length="42819848" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 20 Jan 2009 04:44:02 -0000</pubDate>
+  </item>
+
+   <item>
+      <title>Show 24 - Classical Hanson</title>
+      <link>https://api.put.io/v2/files/461099154/download/Show%C2%A024%20-%20Classical%20Hanson?oauth_token=GNCQVN3C</link>
+      <guid>file:461099154</guid>
+      <enclosure url="https://api.put.io/v2/files/461099154/download/Show%C2%A024%20-%20Classical%20Hanson?oauth_token=GNCQVN3C" length="25693761" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Thu, 30 Oct 2008 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 23 - Punic Nightmares III</title>
+      <link>https://api.put.io/v2/files/461099153/download/Show%C2%A023%20-%20Punic%20Nightmares%20III?oauth_token=GNCQVN3C</link>
+      <guid>file:461099153</guid>
+      <enclosure url="https://api.put.io/v2/files/461099153/download/Show%C2%A023%20-%20Punic%20Nightmares%20III?oauth_token=GNCQVN3C" length="68701819" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Thu, 30 Oct 2008 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 22 - Punic Nightmares II</title>
+      <link>https://api.put.io/v2/files/461099152/download/Show%C2%A022%20-%20Punic%20Nightmares%20II?oauth_token=GNCQVN3C</link>
+      <guid>file:461099152</guid>
+      <enclosure url="https://api.put.io/v2/files/461099152/download/Show%C2%A022%20-%20Punic%20Nightmares%20II?oauth_token=GNCQVN3C" length="56834808" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 17 Sep 2008 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 21 - Punic Nightmares I</title>
+      <link>https://api.put.io/v2/files/461099151/download/Show%C2%A021%20-%20Punic%20Nightmares%20I?oauth_token=GNCQVN3C</link>
+      <guid>file:461099151</guid>
+      <enclosure url="https://api.put.io/v2/files/461099151/download/Show%C2%A021%20-%20Punic%20Nightmares%20I?oauth_token=GNCQVN3C" length="43274378" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sun, 27 Jul 2008 04:44:02 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 20 - (Blitz) History Under The Influence</title>
+      <link>https://api.put.io/v2/files/461099150/download/Show%C2%A020%20-%20%28Blitz%29%20History%20Under%20The%20Influence?oauth_token=GNCQVN3C</link>
+      <guid>file:461099150</guid>
+      <enclosure url="https://api.put.io/v2/files/461099150/download/Show%C2%A020%20-%20%28Blitz%29%20History%20Under%20The%20Influence?oauth_token=GNCQVN3C" length="29467144" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 6 May 2008 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 19 - Apache Tears</title>
+      <link>https://api.put.io/v2/files/461099149/download/Show%C2%A019%20-%20Apache%20Tears?oauth_token=GNCQVN3C</link>
+      <guid>file:461099149</guid>
+      <enclosure url="https://api.put.io/v2/files/461099149/download/Show%C2%A019%20-%20Apache%20Tears?oauth_token=GNCQVN3C" length="56486800" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Fri, 14 Mar 2008 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 18 - A Fly on James Burke's Wall</title>
+      <link>https://api.put.io/v2/files/461099148/download/Show%C2%A018%20-%20A%20Fly%20on%20James%20Burke%27s%20Wall?oauth_token=GNCQVN3C</link>
+      <guid>file:461099148</guid>
+      <enclosure url="https://api.put.io/v2/files/461099148/download/Show%C2%A018%20-%20A%20Fly%20on%20James%20Burke%27s%20Wall?oauth_token=GNCQVN3C" length="32357567" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 02 Jan 2008 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 17 - Judgment at Nineveh</title>
+      <link>https://api.put.io/v2/files/461099147/download/Show%C2%A017%20-%20Judgment%20at%20Nineveh?oauth_token=GNCQVN3C</link>
+      <guid>file:461099147</guid>
+      <enclosure url="https://api.put.io/v2/files/461099147/download/Show%C2%A017%20-%20Judgment%20at%20Nineveh?oauth_token=GNCQVN3C" length="46150847" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Fri, 14 Dec 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 16 - Nazi Tidbits</title>
+      <link>https://api.put.io/v2/files/461099146/download/Show%C2%A016%20-%20Nazi%20Tidbits?oauth_token=GNCQVN3C</link>
+      <guid>file:461099146</guid>
+      <enclosure url="https://api.put.io/v2/files/461099146/download/Show%C2%A016%20-%20Nazi%20Tidbits?oauth_token=GNCQVN3C" length="42695286" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 17 Oct 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 15 - Desperate Times</title>
+      <link>https://api.put.io/v2/files/461099145/download/Show%C2%A015%20-%20Desperate%20Times?oauth_token=GNCQVN3C</link>
+      <guid>file:461099145</guid>
+      <enclosure url="https://api.put.io/v2/files/461099145/download/Show%C2%A015%20-%20Desperate%20Times?oauth_token=GNCQVN3C" length="30235191" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Thu, 30 Aug 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 14 - The Macedonian Soap Opera</title>
+      <link>https://api.put.io/v2/files/461099144/download/Show%C2%A014%20-%20The%20Macedonian%20Soap%20Opera?oauth_token=GNCQVN3C</link>
+      <guid>file:461099144</guid>
+      <enclosure url="https://api.put.io/v2/files/461099144/download/Show%C2%A014%20-%20The%20Macedonian%20Soap%20Opera?oauth_token=GNCQVN3C" length="35593950" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 18 Jul 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 13 - Bubonic Nukes</title>
+      <link>https://api.put.io/v2/files/461099143/download/Show%C2%A013%20-%20Bubonic%20Nukes?oauth_token=GNCQVN3C</link>
+      <guid>file:461099143</guid>
+      <enclosure url="https://api.put.io/v2/files/461099143/download/Show%C2%A013%20-%20Bubonic%20Nukes?oauth_token=GNCQVN3C" length="34232239" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 13 Jun 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 12 - Steppe Stories</title>
+      <link>https://api.put.io/v2/files/461099142/download/Show%C2%A012%20-%20Steppe%20Stories?oauth_token=GNCQVN3C</link>
+      <guid>file:461099142</guid>
+      <enclosure url="https://api.put.io/v2/files/461099142/download/Show%C2%A012%20-%20Steppe%20Stories?oauth_token=GNCQVN3C" length="42200317" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 08 May 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 11 - Thoughts on Churchill</title>
+      <link>https://api.put.io/v2/files/461099141/download/Show%C2%A011%20-%20Thoughts%20on%20Churchill?oauth_token=GNCQVN3C</link>
+      <guid>file:461099141</guid>
+      <enclosure url="https://api.put.io/v2/files/461099141/download/Show%C2%A011%20-%20Thoughts%20on%20Churchill?oauth_token=GNCQVN3C" length="38709292" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 11 Apr 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 10 - The What-Ifs Of 1066</title>
+      <link>https://api.put.io/v2/files/461099140/download/Show%C2%A010%20-%20The%20What-Ifs%20Of%201066?oauth_token=GNCQVN3C</link>
+      <guid>file:461099140</guid>
+      <enclosure url="https://api.put.io/v2/files/461099140/download/Show%C2%A010%20-%20The%20What-Ifs%20Of%201066?oauth_token=GNCQVN3C" length="34259380" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 13 Mar 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 09 - Darkness Buries the Bronze Age</title>
+      <link>https://api.put.io/v2/files/461099139/download/Show%C2%A009%20-%20Darkness%20Buries%20the%20Bronze%20Age?oauth_token=GNCQVN3C</link>
+      <guid>file:461099139</guid>
+      <enclosure url="https://api.put.io/v2/files/461099139/download/Show%C2%A009%20-%20Darkness%20Buries%20the%20Bronze%20Age?oauth_token=GNCQVN3C" length="24310933" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Fri, 16 Feb 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 08 - Scars of the Great War</title>
+      <link>https://api.put.io/v2/files/461099138/download/Show%C2%A008%20-%20Scars%20of%20the%20Great%20War?oauth_token=GNCQVN3C</link>
+      <guid>file:461099138</guid>
+      <enclosure url="https://api.put.io/v2/files/461099138/download/Show%C2%A008%20-%20Scars%20of%20the%20Great%20War?oauth_token=GNCQVN3C" length="29247449" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Sat, 27 Jan 2007 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 07 - The X-History Files</title>
+      <link>https://api.put.io/v2/files/461099137/download/Show%C2%A007%20-%20The%20X-History%20Files?oauth_token=GNCQVN3C</link>
+      <guid>file:461099137</guid>
+      <enclosure url="https://api.put.io/v2/files/461099137/download/Show%C2%A007%20-%20The%20X-History%20Files?oauth_token=GNCQVN3C" length="23015050" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Wed, 27 Dec 2006 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 06 - Shield of the West</title>
+      <link>https://api.put.io/v2/files/461099136/download/Show%C2%A006%20-%20Shield%20of%20the%20West?oauth_token=GNCQVN3C</link>
+      <guid>file:461099136</guid>
+      <enclosure url="https://api.put.io/v2/files/461099136/download/Show%C2%A006%20-%20Shield%20of%20the%20West?oauth_token=GNCQVN3C" length="42568017" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Fri, 08 Dec 2006 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 05 - Meandering Through The Cold War</title>
+      <link>https://api.put.io/v2/files/461099135/download/Show%C2%A005%20-%20Meandering%20Through%20The%20Cold%20War?oauth_token=GNCQVN3C</link>
+      <guid>file:461099135</guid>
+      <enclosure url="https://api.put.io/v2/files/461099135/download/Show%C2%A005%20-%20Meandering%20Through%20The%20Cold%20War?oauth_token=GNCQVN3C" length="34945695" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 14 Nov 2006 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 04 - Romancing The Tribes</title>
+      <link>https://api.put.io/v2/files/461099134/download/Show%C2%A004%20-%20Romancing%20The%20Tribes?oauth_token=GNCQVN3C</link>
+      <guid>file:461099134</guid>
+      <enclosure url="https://api.put.io/v2/files/461099134/download/Show%C2%A004%20-%20Romancing%20The%20Tribes?oauth_token=GNCQVN3C" length="22871795" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 24 Oct 2006 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 03 - The Organization of Peace</title>
+      <link>https://api.put.io/v2/files/461099133/download/Show%C2%A003%20-%20The%20Organization%20of%20Peace?oauth_token=GNCQVN3C</link>
+      <guid>file:461099133</guid>
+      <enclosure url="https://api.put.io/v2/files/461099133/download/Show%C2%A003%20-%20The%20Organization%20of%20Peace?oauth_token=GNCQVN3C" length="30382521" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 12 Sep 2006 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 02 - Guns and Horses</title>
+      <link>https://api.put.io/v2/files/461099132/download/Show%C2%A002%20-%20Guns%20%26%20Horses?oauth_token=GNCQVN3C</link>
+      <guid>file:461099132</guid>
+      <enclosure url="https://api.put.io/v2/files/461099132/download/Show%C2%A002%20-%20Guns%20%26%20Horses?oauth_token=GNCQVN3C" length="25149150" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Tue, 12 Sep 2006 04:44:01 -0000</pubDate>
+  </item>
+
+  <item>
+      <title>Show 01 - Alexander versus Hitler</title>
+      <link>https://api.put.io/v2/files/461099131/download/Show%2001%20-%20Alexander%20versus%20Hitler?oauth_token=GNCQVN3C</link>
+      <guid>file:461099131</guid>
+      <enclosure url="https://api.put.io/v2/files/461099131/download/Show%2001%20-%20Alexander%20versus%20Hitler?oauth_token=GNCQVN3C" length="12100046" type="audio/mpeg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://api.put.io/images/file_types/audio.png" />
+      <pubDate>Thu, 27 Jul 2006 04:44:01 -0000</pubDate>
+  </item>
+
+</channel>
+</rss>
