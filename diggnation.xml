@@ -15,16 +15,33 @@
 
   <title>Diggnation</title>
   <link>http://archive.org/</link>
+  <atom:link href="https://put.io/rss/all/463622585" rel="self" type="application/rss+xml" />
+  <language>en-us</language>
+  <copyright>put.io</copyright>
+  <itunes:subtitle>Dan Carlin's Hardcore History</itunes:subtitle>
+  <itunes:author>Putio</itunes:author>
+  <itunes:summary>Dan Carlin's Hardcore History</itunes:summary>
   <description>
   The most recent additions to the Internet Archive collections. This RSS feed is generated dynamically
   </description>
-  <webMaster>info@archive.org (Info Box)</webMaster>
-  <pubDate>Thu, 13 Apr 2017 19:23:20 GMT</pubDate>
+  <itunes:owner>
+    <itunes:name>Putio</itunes:name>
+    <itunes:email>info@put.io</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://mattmase.github.io/diggnation-artwork.jpg" />
+  <itunes:category text="Technology">
+    <itunes:category text="Gadgets" />
+  </itunes:category>
+  <generator>Putio RSS Generator</generator>
+  <itunes:explicit>no</itunes:explicit>
+  <managingEditor>info@put.io (Put.io)</managingEditor>
+  <itunes:keywords>put.io,putio,putdotio,podcast,putcast</itunes:keywords>
   <image>
     <url>https://mattmase.github.io/diggnation-artwork.jpg</url>
     <title>Internet Archive</title>
     <link>http://archive.org/</link>
   </image>
+
 
   <item>
     <title>Diggnation 421: The Diggnation Finale: Part 2</title>
