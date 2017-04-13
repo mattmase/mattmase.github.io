@@ -1,7 +1,13 @@
-<rss xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss  version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
+
 <channel>
-  <link>http://archive.org/</link>
+  <sy:updatePeriod>hourly</sy:updatePeriod>
+  <sy:updateFrequency>1</sy:updateFrequency>
+
   <title>Diggnation</title>
+  <link>http://archive.org/</link>
   <description>
   The most recent additions to the Internet Archive collections. This RSS feed is generated dynamically
   </description>
@@ -12,23 +18,24 @@
     <title>Internet Archive</title>
     <link>http://archive.org/</link>
   </image>
-<item>
-<title>Diggnation 421: The Diggnation Finale: Part 2</title>
-<media:title>Diggnation 421: The Diggnation Finale: Part 2</media:title>
-<description>
-<img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=Diggnation_421&mediatype=movies&collection=diggnationseries"/><p>In part 2 of the Diggnation Finale, we bring you all the other elements that took place on stage during the taping of the final show..</p><p>This item has files of the following types: Animated GIF, Archive BitTorrent, MPEG4, Metadata, Ogg Video, Thumbnail</p>
-</description>
-<link>https://archive.org/details/Diggnation_421</link>
-<guid>https://archive.org/details/Diggnation_421</guid>
-<pubDate>Sun, 01 Dec 2013 04:44:01 GMT</pubDate>
-<creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
-<category>movies/diggnationseries</category>
-<media:thumbnail url="https://archive.org/download/Diggnation_421/format=Thumbnail"/>
-<media:content url="https://archive.org/download/Diggnation_421/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
-<enclosure url="https://archive.org/download/Diggnation_421/format=MPEG4" type="video/h264" length="111111"/>
-<media:keywords>
-diggnation, revision3, rev3, Kevin Rose, Alex Albrecht
-</media:keywords>
-</item>
+
+  <item>
+    <title>Diggnation 421: The Diggnation Finale: Part 2</title>
+    <media:title>Diggnation 421: The Diggnation Finale: Part 2</media:title>
+    <description>
+    <img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=Diggnation_421&mediatype=movies&collection=diggnationseries"/><p>In part 2 of the Diggnation Finale, we bring you all the other elements that took place on stage during the taping of the final show..</p><p>This item has files of the following types: Animated GIF, Archive BitTorrent, MPEG4, Metadata, Ogg Video, Thumbnail</p>
+    </description>
+    <link>https://archive.org/details/Diggnation_421</link>
+    <guid>https://archive.org/details/Diggnation_421</guid>
+    <pubDate>Sun, 01 Dec 2013 04:44:01 GMT</pubDate>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
+    <category>movies/diggnationseries</category>
+    <media:thumbnail url="https://archive.org/download/Diggnation_421/format=Thumbnail"/>
+    <media:content url="https://archive.org/download/Diggnation_421/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+    <enclosure url="https://archive.org/download/Diggnation_421/format=MPEG4" type="video/h264" length="111111"/>
+    <media:keywords>
+    diggnation, revision3, rev3, Kevin Rose, Alex Albrecht
+    </media:keywords>
+  </item>
 </channel>
 </rss>
