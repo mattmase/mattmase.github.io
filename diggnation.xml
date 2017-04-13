@@ -1,14 +1,13 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <link>http://archive.org/</link>
-    <title>Internet Archive</title>
+    <title>Diggnation</title>
     <description>The most recent additions to the Internet Archive collections.  This RSS feed is generated dynamically</description>
     <webMaster>info@archive.org (Info Box)</webMaster>
-    <pubDate>Thu, 13 Apr 2017 19:23:20 GMT</pubDate>
+    <pubDate>Thu, 13 Apr 2017 19:57:33 GMT</pubDate>
     <image>
-      <url>https://archive.org/images/glogo.png</url>
+      <url>https://mattmase.github.io/diggnation-artwork.jpg</url>
       <title>Internet Archive</title>
       <link>http://archive.org/</link>
     </image>
@@ -3039,7 +3038,7 @@
     <item>
       <title>Diggnation 125: Goth Kids and the Olive Garden</title>
       <media:title>Diggnation 125: Goth Kids and the Olive Garden</media:title>
-      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=Diggnation_125&amp;mediatype=movies&amp;collection=diggnationseries"/&gt;&lt;p&gt;Busted on Facebook, Real Life Akira Motorcycle, Lose a Race, Dude - you're getting a Dell kid FOUND, Squirrel Playing Dead, Creative Beggar, Zombie Attack in Ancient Egypt.&lt;/p&gt;&lt;lt;p&gt;This item has files of the following types: Animated GIF, Archive BitTorrent, Metadata, Ogg Video, QuickTime, Thumbnail, h.264&lt;/p&gt;</description>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=Diggnation_125&amp;mediatype=movies&amp;collection=diggnationseries"/&gt;&lt;p&gt;Busted on Facebook, Real Life Akira Motorcycle, Lose a Race, Dude - you're getting a Dell kid FOUND, Squirrel Playing Dead, Creative Beggar, Zombie Attack in Ancient Egypt.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Animated GIF, Archive BitTorrent, Metadata, Ogg Video, QuickTime, Thumbnail, h.264&lt;/p&gt;</description>
       <link>https://archive.org/details/Diggnation_125</link>
       <guid>https://archive.org/details/Diggnation_125</guid>
       <pubDate>Sat, 26 Oct 2013 07:22:04 GMT</pubDate>
