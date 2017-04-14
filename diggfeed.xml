@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:creativecommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
      <channel>
-       <link>http://archive.org/
+          <link>http://archive.org/</link>
        <title>Diggnation</title>
        <description>The most recent additions to the Internet Archive collections.  This RSS feed is generated dynamically</description>
        <webmaster>info@archive.org (Info Box)</webmaster>
