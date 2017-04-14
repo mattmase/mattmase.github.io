@@ -4395,9 +4395,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_29/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_29/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_29/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_29/format=h.264" type="video/h264" length="111111"/>
+          
+            <enclosure url="https://archive.org/download/Diggnation_29/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4412,9 +4411,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_28/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_28/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_28/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_28/format=h.264" type="video/h264" length="111111"/>
+          
+            <enclosure url="https://archive.org/download/Diggnation_28/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4429,9 +4427,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_27/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_27/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_27/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_27/format=h.264" type="video/h264" length="111111"/>
+          
+            <enclosure url="https://archive.org/download/Diggnation_27/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4446,9 +4443,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_26/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_26/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_26/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_26/format=h.264" type="video/h264" length="111111"/>
+           
+            <enclosure url="https://archive.org/download/Diggnation_26/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4463,9 +4459,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_25/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_25/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_25/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_25/format=h.264" type="video/h264" length="111111"/>
+          
+            <enclosure url="https://archive.org/download/Diggnation_25/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4480,9 +4475,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_24/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_24/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_24/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_24/format=h.264" type="video/h264" length="111111"/>
+          
+            <enclosure url="https://archive.org/download/Diggnation_24/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4497,9 +4491,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_23/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_23/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_23/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_23/format=h.264" type="video/h264" length="111111"/>
+          
+            <enclosure url="https://archive.org/download/Diggnation_23/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4514,9 +4507,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_22/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_22/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_22/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_22/format=h.264" type="video/h264" length="111111"/>
+           
+            <enclosure url="https://archive.org/download/Diggnation_22/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4531,9 +4523,8 @@
          <media:thumbnail url="https://archive.org/download/Diggnation_21/format=Thumbnail"/>
          
            <media:content url="https://archive.org/download/Diggnation_21/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_21/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_21/format=h.264" type="video/h264" length="111111"/>
+          
+            <enclosure url="https://archive.org/download/Diggnation_21/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4546,11 +4537,9 @@
          <creativecommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativecommons:license>
          <category>movies/diggnationseries</category>
          <media:thumbnail url="https://archive.org/download/Diggnation_20/format=Thumbnail"/>
-         
-           <media:content url="https://archive.org/download/Diggnation_20/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_20/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_20/format=h.264" type="video/h264" length="111111"/>
+            <media:content url="https://archive.org/download/Diggnation_20/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
+           
+            <enclosure url="https://archive.org/download/Diggnation_20/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4563,11 +4552,9 @@
          <creativecommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativecommons:license>
          <category>movies/diggnationseries</category>
          <media:thumbnail url="https://archive.org/download/Diggnation_19/format=Thumbnail"/>
-         
-           <media:content url="https://archive.org/download/Diggnation_19/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_19/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
-         <enclosure url="https://archive.org/download/Diggnation_19/format=h.264" type="video/h264" length="111111"/>
+            <media:content url="https://archive.org/download/Diggnation_19/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
+        
+            <enclosure url="https://archive.org/download/Diggnation_19/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
        <item>
@@ -4580,10 +4567,7 @@
          <creativecommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativecommons:license>
          <category>movies/diggnationseries</category>
          <media:thumbnail url="https://archive.org/download/Diggnation_18/format=Thumbnail"/>
-         
-           <media:content url="https://archive.org/download/Diggnation_18/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_18/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
+         <media:content url="https://archive.org/download/Diggnation_18/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
          <enclosure url="https://archive.org/download/Diggnation_18/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
@@ -4597,10 +4581,7 @@
          <creativecommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativecommons:license>
          <category>movies/diggnationseries</category>
          <media:thumbnail url="https://archive.org/download/Diggnation_17/format=Thumbnail"/>
-         
-           <media:content url="https://archive.org/download/Diggnation_17/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_17/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
+         <media:content url="https://archive.org/download/Diggnation_17/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
          <enclosure url="https://archive.org/download/Diggnation_17/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
@@ -4614,10 +4595,7 @@
          <creativecommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativecommons:license>
          <category>movies/diggnationseries</category>
          <media:thumbnail url="https://archive.org/download/Diggnation_16/format=Thumbnail"/>
-         
-           <media:content url="https://archive.org/download/Diggnation_16/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
-           <media:content url="https://archive.org/download/Diggnation_16/format=MPEG4" type="video/h264" medium="video" expression="full"/>
-         
+         <media:content url="https://archive.org/download/Diggnation_16/format=h.264" type="video/h264" medium="video" expression="full" isdefault="true" bitrate="700"/>
          <enclosure url="https://archive.org/download/Diggnation_16/format=h.264" type="video/h264" length="111111"/>
          <media:keywords>diggnation, revision3, rev3, Kevin Rose, Alex Albrecht</media:keywords>
        </item>
