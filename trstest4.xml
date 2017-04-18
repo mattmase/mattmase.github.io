@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <link>http://archive.org/</link>
+    <title>The Totally Rad Show</title>
+    <description>THE TOTALLY RAD SHOW. Hosted by Alex Albrecht, Dan Trachtenberg and Jeff Cannata. The Totally Rad Show is the summer blockbuster of geek news shows. Every week, hosts Alex Albrecht, Dan Trachtenberg, and Jeff Cannata rip into the world of movies, video games, tv, comics, and more and pull out what's rad. </description>
+    <webMaster>info@archive.org (Info Box)</webMaster>
+    <pubDate>Thu, 13 Apr 2017 19:57:33 GMT</pubDate>
+    <image>
+      <url>https://mattmase.github.io/totallyradshow-artwork.jpg</url>
+      <title>The Totally Rad Show</title>
+      <link>http://archive.org/</link>
+    </image>
+    <item>
+      <title>The Totally Rad Show 759: TRS VS. - Final Top 10</title>
+      <media:title>The Totally Rad Show 759: TRS VS. - Final Top 10</media:title>
+      <description>
+    &lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=The_Totally_Rad_Show_759&amp;mediatype=movies&amp;collection=the_totally_rad_show"/&gt;&lt;span&gt;We couldn't end the show without final VS! This is it! The final Top 10!&lt;/span&gt;
+                    &lt;br&gt; Topics: revision3, rev3, trs, The Totally Rad Show, Alex Albrecht, Dan Trachtenberg, Jeff Cannata
+                    &lt;br&gt;
+      </description>
+      <link>https://archive.org/details/The_Totally_Rad_Show_759</link>
+      <guid>https://archive.org/details/The_Totally_Rad_Show_759</guid>
+      <pubDate>Fri, 23 Nov 2012 04:44:02 -0000</pubDate>
+      <creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
+      <category>movies/movies/the_totally_rad_show</category>
+      <media:thumbnail url="https://archive.org/download/The_Totally_Rad_Show_759/format=Thumbnail"/>
+      <media:content url="https://archive.org/download/The_Totally_Rad_Show_759/format=MPEG4" type="video/h264" medium="video" expression="full" isDefault="true"/>
+      <enclosure url="https://archive.org/download/The_Totally_Rad_Show_759/format=MPEG4" type="video/h264" length="111111"/>
+      <media:keywords>revision3, rev3, trs, The Totally Rad Show, Alex Albrecht, Dan Trachtenberg, Jeff Cannata</media:keywords>
+    </item>
+  </channel>
+</rss>
