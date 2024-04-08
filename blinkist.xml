@@ -13,7 +13,7 @@
   <sy:updatePeriod>hourly</sy:updatePeriod>
   <sy:updateFrequency>1</sy:updateFrequency>
 
-  <title>blinkist</title>
+  <title>Blinkist</title>
   <link>http://www.put.io</link>
   <atom:link href="https://api.put.io/rss/all/1362117668?oauth_token=LPRFZSNF5P6TTOZOKOU2" rel="self" type="application/rss+xml" />
   <language>en-us</language>
